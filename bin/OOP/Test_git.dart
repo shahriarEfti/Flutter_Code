@@ -1,0 +1,6 @@
+class Nurullah{
+
+}
+void main(){
+
+}
