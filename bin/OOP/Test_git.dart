@@ -1,6 +1,0 @@
-class Nurullah{
-
-}
-void main(){
-
-}
